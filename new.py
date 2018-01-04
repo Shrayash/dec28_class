@@ -13,3 +13,8 @@ my_set={val * val for val in num}
 print(my_set)
 print(type(num))
 
+
+
+str=input('Enter a name')
+my_count={}
+
